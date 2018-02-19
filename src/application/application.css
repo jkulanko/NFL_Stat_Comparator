@@ -1,0 +1,15 @@
+#anchor1 {
+-fx-background-color: #D7CEC7;
+}
+#anchor3 {
+-fx-background-color: #C09F80;
+}
+#rectangle {
+	-fx-background-color: #fdf5e6;
+}
+.root{
+
+    -fx-font-family: "Arial";
+    -fx-base: #76323F;
+    -fx-background: #565656;
+}
